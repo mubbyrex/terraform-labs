@@ -6,7 +6,7 @@ I use it to learn, test ideas, and go deeper into concepts by actually building 
 
 ---
 
-## 📦 Structure
+## Structure
 
 ```id="z8z6nh"
 terraform-labs/
@@ -26,7 +26,7 @@ terraform-labs/
 
 ## How I use this repo
 
-### 🧪 Exercises
+### Exercises
 
 Each folder focuses on a single concept.
 
